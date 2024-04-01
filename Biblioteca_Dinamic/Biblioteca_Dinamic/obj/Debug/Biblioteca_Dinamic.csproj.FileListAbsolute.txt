@@ -1,0 +1,20 @@
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.exe.config
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.exe
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.pdb
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.FrmMeniu.resources
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.Properties.Resources.resources
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csproj.GenerateResource.cache
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.exe
+D:\1_PROGRAMARE\C#\Programare Orientate Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.pdb
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.exe.config
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.exe
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\bin\Debug\Biblioteca_Dinamic.pdb
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csproj.AssemblyReference.cache
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.FrmMeniu.resources
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.Properties.Resources.resources
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csproj.GenerateResource.cache
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.csproj.CoreCompileInputs.cache
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.exe
+E:\1_PROGRAMARE\C#\Programare_Orientate_Obiect\Incapsularea\Biblioteca_Dinamic\Biblioteca_Dinamic\obj\Debug\Biblioteca_Dinamic.pdb
