@@ -1,0 +1,10 @@
+audi,30000,22,0,not
+landrover,14000,1,0,not
+mercedes,1000,34,1,ana
+rangerover,400,24,1,maria
+lamborghini,100,1000,1,ion
+ferrari,24,1234,0,not
+razvan,1,1,1,eu
+TEST,1,1,0,not
+Mercedes,1234,412,0,not
+stop
