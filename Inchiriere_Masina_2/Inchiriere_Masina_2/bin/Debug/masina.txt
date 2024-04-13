@@ -1,0 +1,8 @@
+dacia,2000,1200,benzina,800 lei,1,Dumitru
+renault,2004,2000,diesel,1200 lei,0,null
+bmw,2007,3570,diesel,20000 lei,0,null
+opel,2001,2400,diesel,123 lei,0,null
+hyundai,2017,140,benzina,16000 lei,0,null
+audi,2013,2980,diesel,8199 lei,0,null
+TEST,123,123,asd,123,0,null
+stop
