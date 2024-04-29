@@ -1,0 +1,36 @@
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmLogin.resources
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.Properties.Resources.resources
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csproj.GenerateResource.cache
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.exe.config
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.exe
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.pdb
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.exe
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.pdb
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmSignUp.resources
+D:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmMenu.resources
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.exe.config
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.exe
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\bin\Debug\Manicure.pdb
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csproj.AssemblyReference.cache
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmLogin.resources
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmMenu.resources
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.FrmSignUp.resources
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.Properties.Resources.resources
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csproj.GenerateResource.cache
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.csproj.CoreCompileInputs.cache
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.exe
+E:\1_PROGRAMARE\C#\TEMA\3_MARTIE\9\Manicure\Manicure\obj\Debug\Manicure.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\bin\Debug\Manicure.exe.config
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\bin\Debug\Manicure.exe
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\bin\Debug\Manicure.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.csproj.AssemblyReference.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.FrmLogin.resources
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.FrmMenu.resources
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.FrmSignUp.resources
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.Properties.Resources.resources
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.csproj.GenerateResource.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.exe
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Manicure\Manicure\obj\Debug\Manicure.pdb

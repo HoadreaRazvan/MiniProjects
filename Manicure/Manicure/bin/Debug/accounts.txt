@@ -1,0 +1,4 @@
+Razvan,1234,hoadrea@yahoo.com,1
+User,1234,user@yahoo.com,0
+fwafwa,awfawfw,fwafwa,0
+stop
