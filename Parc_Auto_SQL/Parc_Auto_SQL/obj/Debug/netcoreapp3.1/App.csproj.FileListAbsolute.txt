@@ -1,0 +1,144 @@
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.exe
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.deps.json
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.pdb
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.pdb
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.pdb
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.exe
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.deps.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.pdb
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\ZstdNet.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.pdb
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.sourcelink.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.pdb
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\bin\Debug\netcoreapp3.1\DataAcces.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\Parc_Auto_SQL\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache

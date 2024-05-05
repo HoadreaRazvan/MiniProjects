@@ -1,0 +1,30 @@
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.deps.json
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csprojAssemblyReference.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfoInputs.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfo.cs
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\DataAcces\bin\Debug\netstandard2.0\DataAcces.pdb
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\DataAcces\obj\Debug\netstandard2.0\DataAcces.dll
+D:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_Sql\DataAcces\obj\Debug\netstandard2.0\DataAcces.pdb
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.deps.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.pdb
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.AssemblyReference.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfoInputs.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfo.cs
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.CoreCompileInputs.cache
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.sourcelink.json
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.dll
+E:\1_PROGRAMARE\C#\Baza_De_Date\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.deps.json
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\bin\Debug\netstandard2.0\DataAcces.pdb
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.dll
+C:\Users\hoadr\OneDrive\Desktop\New folder\push\Parc_Auto_SQL\DataAcces\obj\Debug\netstandard2.0\DataAcces.pdb
