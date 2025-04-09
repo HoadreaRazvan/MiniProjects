@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\threadsynchronization\\threadsynchronization\\synchronization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\synchronization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\threadsynchronization\\threadsynchronization\\winapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\winapiclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\threadsynchronization\\threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364B9C5E-6E28-4470-A9C1-66897866A646}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Synchronization.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\Synchronization.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\Synchronization.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\Synchronization.cs",
+              "RelativeToolTip": "ThreadSynchronization\\Synchronization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:26:33.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinApiClass.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\WinApiClass.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\WinApiClass.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\WinApiClass.cs",
+              "RelativeToolTip": "ThreadSynchronization\\WinApiClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:26:06.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\Program.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ThreadSynchronization\\ThreadSynchronization\\Program.cs",
+              "RelativeToolTip": "ThreadSynchronization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:25:16.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

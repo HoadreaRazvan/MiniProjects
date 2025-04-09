@@ -1,0 +1,16 @@
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.exe
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.deps.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.runtimeconfig.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.runtimeconfig.dev.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\bin\Debug\net5.0\ThreadSynchronization.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.AssemblyInfoInputs.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.AssemblyInfo.cs
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.sourcelink.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\refint\ThreadSynchronization.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ThreadSynchronization.genruntimeconfig.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ThreadSynchronization\ThreadSynchronization\obj\Debug\net5.0\ref\ThreadSynchronization.dll
