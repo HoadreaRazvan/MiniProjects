@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ML_Gaussian_distribution/1.0.0": {
+        "runtime": {
+          "ML_Gaussian_distribution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ML_Gaussian_distribution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
