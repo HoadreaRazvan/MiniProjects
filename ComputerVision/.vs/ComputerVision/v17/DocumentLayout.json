@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|d:\\3_facultate\\1_cursuri\\image_processing\\improcc#\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ComputerVision\\MainForm.Designer.cs",
+              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.Designer.cs",
+              "RelativeToolTip": "ComputerVision\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:33:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
+              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "RelativeToolTip": "ComputerVision\\MainForm.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAiwNMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:42:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
+              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs [Design]",
+              "RelativeToolTip": "ComputerVision\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:41:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FastImage.cs",
+              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\FastImage.cs",
+              "RelativeDocumentMoniker": "ComputerVision\\FastImage.cs",
+              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\FastImage.cs",
+              "RelativeToolTip": "ComputerVision\\FastImage.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:10:09.001Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\ml\\generatecoordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\ml\\generatecoordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\ml\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\ml\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\ml_gaussian_distribution\\ml_gaussian_distribution\\ml\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222C8FF-ACE6-4ABC-A500-33B3E034EBD3}|ML_Gaussian_distribution\\ML_Gaussian_distribution.csproj|solutionrelative:ml_gaussian_distribution\\ml\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 358,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GenerateCoordinate.cs",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\ML\\GenerateCoordinate.cs",
               "RelativeDocumentMoniker": "ML_Gaussian_distribution\\ML\\GenerateCoordinate.cs",
               "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\ML\\GenerateCoordinate.cs",
               "RelativeToolTip": "ML_Gaussian_distribution\\ML\\GenerateCoordinate.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T19:39:07.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ML_Gaussian_distribution\\MainWindow.xaml.cs",
               "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\MainWindow.xaml.cs",
               "RelativeToolTip": "ML_Gaussian_distribution\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T19:31:43.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Zone.cs",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\ML\\Zone.cs",
               "RelativeDocumentMoniker": "ML_Gaussian_distribution\\ML\\Zone.cs",
@@ -88,12 +88,11 @@
               "RelativeToolTip": "ML_Gaussian_distribution\\ML\\Zone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T19:38:27.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T19:38:27.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ML_Gaussian_distribution\\ML_Gaussian_distribution\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ML_Gaussian_distribution\\MainWindow.xaml",
