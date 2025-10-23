@@ -8,3 +8,13 @@ D:\3_FACULTATE\1_CURSURI\Image_Processing\ImProcC#\ComputerVision\obj\Debug\Comp
 D:\3_FACULTATE\1_CURSURI\Image_Processing\ImProcC#\ComputerVision\obj\Debug\ComputerVision.csproj.CoreCompileInputs.cache
 D:\3_FACULTATE\1_CURSURI\Image_Processing\ImProcC#\ComputerVision\obj\Debug\ComputerVision.exe
 D:\3_FACULTATE\1_CURSURI\Image_Processing\ImProcC#\ComputerVision\obj\Debug\ComputerVision.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\bin\Debug\ComputerVision.exe.config
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\bin\Debug\ComputerVision.exe
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\bin\Debug\ComputerVision.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.csproj.AssemblyReference.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.MainForm.resources
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.Properties.Resources.resources
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.csproj.GenerateResource.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.exe
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\ComputerVision\ComputerVision\obj\Debug\ComputerVision.pdb

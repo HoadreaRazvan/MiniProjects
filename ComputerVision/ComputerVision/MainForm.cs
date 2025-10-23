@@ -205,9 +205,9 @@ namespace ComputerVision
             int d = this.trackBar_Constrast.Value;
 
 
-            int maxR = 0, minR = 255, maxG = 0, minG = 255, maxB = 0, minB = 255,rn,gn,bn;
+            int maxR = 0, minR = 255, maxG = 0, minG = 255, maxB = 0, minB = 255, rn, gn, bn;
             double ar, br, ag, bg, ab, bb;
-            byte R=0,G=0, B=0;
+            byte R = 0, G = 0, B = 0;
 
             for (int i = 0; i < workImage.Width; i++)
             {
@@ -280,6 +280,114 @@ namespace ComputerVision
 
                     color = Color.FromArgb(rn, gn, bn);
 
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void BtnEgalizare_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            Color color;
+
+
+            workImage.Lock();
+            saveImage.Lock();
+
+
+            int[] hist = new int[256];
+            int[] histc = new int[256];
+            int[] transf = new int[256];
+            int medie;
+
+            for (int i = 0; i < workImage.Width; i++)
+            {
+                for (int j = 0; j < workImage.Height; j++)
+                {
+                    color = saveImage.GetPixel(i, j);
+                    byte R = color.R;
+                    byte G = color.G;
+                    byte B = color.B;
+
+                    medie = (R + G + B) / 3;
+                    hist[medie] = hist[medie] + 1;
+
+                }
+            }
+
+            histc[0] = hist[0];
+            for (int i = 1; i < 256; i++)
+                histc[i] = histc[i - 1] + hist[i];
+
+            for (int i = 0; i < 256; i++)
+                transf[i] = (histc[i] * 255) / (workImage.Width * workImage.Height);
+
+
+            for (int i = 0; i < workImage.Width; i++)
+            {
+                for (int j = 0; j < workImage.Height; j++)
+                {
+                    color = saveImage.GetPixel(i, j);
+                    byte R = color.R;
+                    byte G = color.G;
+                    byte B = color.B;
+
+                    medie = (R + G + B) / 3;
+                    color = Color.FromArgb(transf[medie], transf[medie], transf[medie]);
+
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void TrackBar_Rotatie_Scroll(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+
+            double unghi = this.TrackBar_Rotatie.Value * Math.PI / 180.0;
+            int cx = workImage.Width / 2;
+            int cy = workImage.Height / 2;
+
+            for (int i = 0; i < workImage.Width; i++)
+            {
+                for (int j = 0; j < workImage.Height; j++)
+                {
+                    int x = (int)(Math.Cos(-unghi) * (i - cx) - Math.Sin(-unghi) * (j - cy) + cx);
+                    int y = (int)(Math.Sin(-unghi) * (i - cx) + Math.Cos(-unghi) * (j - cy) + cy);
+
+                    Color color;
+                    if (x >= 0 && x < workImage.Width && y >= 0 && y < workImage.Height)
+                    {
+                        color = saveImage.GetPixel(x, y);
+                    }
+                    else
+                    {
+                        color = Color.FromArgb(0, 0, 0);
+                    }
                     workImage.SetPixel(i, j, color);
                 }
             }

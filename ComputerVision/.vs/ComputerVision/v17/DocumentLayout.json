@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\",
+  "WorkspaceRootPath": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|d:\\3_facultate\\1_cursuri\\image_processing\\improcc#\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\computervision\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\fastimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "ComputerVision\\MainForm.Designer.cs",
-              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.Designer.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.Designer.cs",
               "RelativeToolTip": "ComputerVision\\MainForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,33 +68,33 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
-              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeToolTip": "ComputerVision\\MainForm.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAiwNMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAYwI8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T17:42:02.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
-              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\MainForm.cs [Design]",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs [Design]",
               "RelativeToolTip": "ComputerVision\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T17:41:52.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FastImage.cs",
-              "DocumentMoniker": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\FastImage.cs",
+              "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\FastImage.cs",
               "RelativeDocumentMoniker": "ComputerVision\\FastImage.cs",
-              "ToolTip": "D:\\3_FACULTATE\\1_CURSURI\\Image_Processing\\ImProcC#\\ComputerVision\\FastImage.cs",
+              "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\FastImage.cs",
               "RelativeToolTip": "ComputerVision\\FastImage.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwDYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
