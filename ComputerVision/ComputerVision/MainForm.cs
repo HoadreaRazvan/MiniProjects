@@ -7,6 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Drawing.Imaging;
 using System.Diagnostics;
+using System.Net.NetworkInformation;
 
 namespace ComputerVision
 {
@@ -21,6 +22,8 @@ namespace ComputerVision
         public MainForm()
         {
             InitializeComponent();
+            this.TxtFTJ.Text = "1";
+            this.TxtOutlier.Text = "1";
         }
 
         private void buttonLoad_Click(object sender, EventArgs e)
@@ -388,6 +391,154 @@ namespace ComputerVision
                     {
                         color = Color.FromArgb(0, 0, 0);
                     }
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void BtnFTJ_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+            Color color;
+            int n = int.Parse(this.TxtFTJ.Text);
+            byte R, G, B;
+            int sr = 0, sg = 0, sb = 0;
+            int[,] h = new int[3, 3];
+            h[0, 0] = 1; h[0, 2] = 1; h[2, 0] = 1; ; h[2, 2] = 1;
+            h[0, 1] = n; h[1, 0] = n; h[1, 2] = n; h[2, 1] = n;
+            h[1, 1] = n * n;
+
+            for (int i = 1; i < workImage.Width - 1; i++)
+            {
+                for (int j = 1; j < workImage.Height - 1; j++)
+                {
+
+                    sr = 0;
+                    sg = 0;
+                    sb = 0;
+                    for (int row = i - 1; row <= i + 1; row++)
+                        for (int col = j - 1; col <= j + 1; col++)
+                        {
+                            color = workImage.GetPixel(row, col);
+                            sr += color.R * h[row - i + 1, col - j + 1];
+                            sg += color.G * h[row - i + 1, col - j + 1];
+                            sb += color.B * h[row - i + 1, col - j + 1];
+                        }
+                    sr = sr / ((n + 2) * (n + 2));
+                    sg = sg / ((n + 2) * (n + 2));
+                    sb = sb / ((n + 2) * (n + 2));
+
+
+                    color = Color.FromArgb(sr,sg,sb);
+
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void BtnFM_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+            Color color;
+            byte R, G, B;
+
+            for (int i = 2; i < workImage.Width - 2; i++)
+            {
+                for (int j = 2; j < workImage.Height - 2; j++)
+                {
+                    Color a, b, c, d, ee;
+                    a = workImage.GetPixel(i, j - 2);
+                    b = workImage.GetPixel(i, j - 1);
+                    c = workImage.GetPixel(i, j);
+                    d = workImage.GetPixel(i, j + 1);
+                    ee = workImage.GetPixel(i, j + 2);
+                    
+                    
+                    color = Color.FromArgb(Math.Max(Math.Max(Math.Max(Math.Min(a.R, Math.Min(c.R, ee.R)), Math.Min(a.R, Math.Min(d.R, ee.R))), Math.Max(Math.Min(b.R, Math.Min(c.R, d.R)), Math.Min(b.R, Math.Min(c.R, ee.R)))), Math.Max(Math.Max(Math.Min(b.R, Math.Min(d.R, ee.R)), Math.Min(c.R, Math.Min(d.R, ee.R))), Math.Max(Math.Max(Math.Min(a.R, Math.Min(b.R, c.R)), Math.Min(a.R, Math.Min(b.R, d.R))), Math.Max(Math.Min(a.R, Math.Min(b.R, ee.R)), Math.Min(a.R, Math.Min(c.R, d.R)))))),
+                        Math.Max(Math.Max(Math.Max(Math.Min(a.G, Math.Min(c.G, ee.G)), Math.Min(a.G, Math.Min(d.G, ee.G))), Math.Max(Math.Min(b.G, Math.Min(c.G, d.G)), Math.Min(b.G, Math.Min(c.G, ee.G)))), Math.Max(Math.Max(Math.Min(b.G, Math.Min(d.G, ee.G)), Math.Min(c.G, Math.Min(d.G, ee.G))), Math.Max(Math.Max(Math.Min(a.G, Math.Min(b.G, c.G)), Math.Min(a.G, Math.Min(b.G, d.G))), Math.Max(Math.Min(a.G, Math.Min(b.G, ee.G)), Math.Min(a.G, Math.Min(c.G, d.G)))))),
+                        Math.Max(Math.Max(Math.Max(Math.Min(a.B, Math.Min(c.B, ee.B)), Math.Min(a.B, Math.Min(d.B, ee.B))), Math.Max(Math.Min(b.B, Math.Min(c.B, d.B)), Math.Min(b.B, Math.Min(c.B, ee.B)))), Math.Max(Math.Max(Math.Min(b.B, Math.Min(d.B, ee.B)), Math.Min(c.B, Math.Min(d.B, ee.B))), Math.Max(Math.Max(Math.Min(a.B, Math.Min(b.B, c.B)), Math.Min(a.B, Math.Min(b.B, d.B))), Math.Max(Math.Min(a.B, Math.Min(b.B, ee.B)), Math.Min(a.B, Math.Min(c.B, d.B))))))
+                    );
+
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void BtnOutlier_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+            Color color;
+            int n = int.Parse(this.TxtOutlier.Text);
+            byte R, G, B;
+            int sr = 0, sg = 0, sb = 0;
+
+
+            for (int i = 1; i < workImage.Width - 1; i++)
+            {
+                for (int j = 1; j < workImage.Height - 1; j++)
+                {
+
+                    sr = 0;
+                    sg = 0;
+                    sb = 0;
+                    for (int row = i - 1; row <= i + 1; row++)
+                        for (int col = j - 1; col <= j + 1; col++)
+                        {
+                            if (row == i && col == j)
+                                continue;
+                            color = workImage.GetPixel(row, col);
+                            sr += color.R;
+                            sg += color.G;
+                            sb += color.B;
+                        }
+                    sr = sr / 8;
+                    sg = sg / 8;
+                    sb = sb / 8;
+
+                    if(Math.Abs(workImage.GetPixel(i, j).R-sr) > n && Math.Abs(workImage.GetPixel(i, j).G- sg) > n && Math.Abs(workImage.GetPixel(i, j).B- sb)  > n)
+                    {
+                        color = Color.FromArgb(sr, sg, sb);
+
+                    }
+                    else
+                        color = workImage.GetPixel(i, j);
+
                     workImage.SetPixel(i, j, color);
                 }
             }
