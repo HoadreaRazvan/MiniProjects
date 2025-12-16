@@ -1,13 +1,14 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Imaging;
+using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Windows.Forms;
-using System.Drawing.Imaging;
-using System.Diagnostics;
-using System.Net.NetworkInformation;
 
 namespace ComputerVision
 {
@@ -805,7 +806,7 @@ namespace ComputerVision
                     sb = sb / ((n + 2) * (n + 2));
 
 
-                    color1= saveImage.GetPixel(i, j);
+                    color1 = saveImage.GetPixel(i, j);
                     ro = color1.R;
                     go = color1.G;
                     bo = color1.B;
@@ -879,9 +880,9 @@ namespace ComputerVision
             {
                 for (int j = 1; j < workImage.Height - 1; j++)
                 {
-                    r1 = 0;r2 = 0;r3 = 0;r4 = 0;
-                    g1 = 0;g2 = 0;g3 = 0;g4 = 0;
-                    b1 = 0;b2 = 0;b3 = 0;b4 = 0;
+                    r1 = 0; r2 = 0; r3 = 0; r4 = 0;
+                    g1 = 0; g2 = 0; g3 = 0; g4 = 0;
+                    b1 = 0; b2 = 0; b3 = 0; b4 = 0;
 
                     for (int row = i - 1; row <= i + 1; row++)
                         for (int col = j - 1; col <= j + 1; col++)
@@ -961,7 +962,7 @@ namespace ComputerVision
                 {
                     r1 = 0;
                     g1 = 0;
-                    b1 = 0; 
+                    b1 = 0;
 
                     for (int row = i - 1; row <= i + 1; row++)
                         for (int col = j - 1; col <= j + 1; col++)
@@ -1037,12 +1038,12 @@ namespace ComputerVision
                         {
                             color = saveImage.GetPixel(row, col);
                             r1 += color.R * h1[row - i, col - j];
-                            g1 += color.G * h1[row - i , col - j ];
-                            b1 += color.B * h1[row - i , col - j ];
+                            g1 += color.G * h1[row - i, col - j];
+                            b1 += color.B * h1[row - i, col - j];
 
-                            r2 += color.R * h2[row - i , col - j ];
-                            g2 += color.G * h2[row - i , col - j ];
-                            b2 += color.B * h2[row - i , col - j ];
+                            r2 += color.R * h2[row - i, col - j];
+                            g2 += color.G * h2[row - i, col - j];
+                            b2 += color.B * h2[row - i, col - j];
 
                         }
 
@@ -1110,11 +1111,11 @@ namespace ComputerVision
                     g1 = 0; g2 = 0;
                     b1 = 0; b2 = 0;
 
-                    for (int row = i-1; row <= i + 1; row++)
-                        for (int col = j-1; col <= j + 1; col++)
+                    for (int row = i - 1; row <= i + 1; row++)
+                        for (int col = j - 1; col <= j + 1; col++)
                         {
                             color = saveImage.GetPixel(row, col);
-                            r1 += color.R * h1[row - i+1, col - j + 1];
+                            r1 += color.R * h1[row - i + 1, col - j + 1];
                             g1 += color.G * h1[row - i + 1, col - j + 1];
                             b1 += color.B * h1[row - i + 1, col - j + 1];
 
@@ -1124,7 +1125,7 @@ namespace ComputerVision
 
                         }
 
-                    rm =  Math.Sqrt(r1 * r1 + r2 * r2);
+                    rm = Math.Sqrt(r1 * r1 + r2 * r2);
                     gm = Math.Sqrt(g1 * g1 + g2 * g2);
                     bm = Math.Sqrt(b1 * b1 + b2 * b2);
 
@@ -1148,6 +1149,424 @@ namespace ComputerVision
             panelDestination.BackgroundImage = workImage.GetBitMap();
             workImage.Unlock();
             saveImage.Unlock();
+        }
+
+        private void BtnFreiChen_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+            Color color;
+            Color color1;
+
+            double s1r = 0, s2r = 0;
+            double s1g = 0, s2g = 0;
+            double s1b = 0, s2b = 0;
+
+            double[,] F1 = new double[3, 3] {
+                { 1, Math.Sqrt(2), 1 },
+                { 0, 0, 0 },
+                { -1, -Math.Sqrt(2), -1 }
+            };
+            double[,] F2 = new double[3, 3] {
+                { 1, 0, -1 },
+                { Math.Sqrt(2), 0, -Math.Sqrt(2) },
+                { 1, 0, -1 }
+            };
+            double[,] F3 = new double[3, 3] {
+                { 0, -1, Math.Sqrt(2) },
+                { 1, 0, -1 },
+                { -Math.Sqrt(2), 1, 0 }
+            };
+            double[,] F4 = new double[3, 3] {
+                { Math.Sqrt(2), -1, 0 },
+                { -1, 0, 1 },
+                { 0, 1, -Math.Sqrt(2) }
+            };
+            int[,] F5 = new int[3, 3] {
+                { 0, 1, 0 },
+                { -1, 0, -1 },
+                { 0, 1, 0 }
+            };
+            int[,] F6 = new int[3, 3] {
+                { -1, 0, 1 },
+                { 0, 0, 0 },
+                { 1, 0, -1 }
+            };
+            int[,] F7 = new int[3, 3] {
+                { 1, -2, 1 },
+                { -2, 4, -2 },
+                { 1, -2, 1 }
+            };
+            int[,] F8 = new int[3, 3] {
+                { -2, 1, -2 },
+                { 1, 4, 1 },
+                { -2, 1, -2 }
+            };
+            double[,] F9 = new double[3, 3] {
+                { 1.0/9, 1.0/9, 1.0/9 },
+                { 1.0/9, 1.0/9, 1.0/9 },
+                { 1.0/9, 1.0/9, 1.0/9 }
+            };
+
+
+            for (int i = 1; i < workImage.Width - 1; i++)
+            {
+                for (int j = 1; j < workImage.Height - 1; j++)
+                {
+
+                    s1r = 0;
+                    s2r = 0;
+                    s1g = 0;
+                    s2g = 0;
+                    s1b = 0;
+                    s2b = 0;
+
+                    for (int row = i - 1; row <= i + 1; row++)
+                        for (int col = j - 1; col <= j + 1; col++)
+                        {
+                            color = saveImage.GetPixel(row, col);
+                            s1r += color.R * F1[row - i + 1, col - j + 1];
+                            s1g += color.G * F1[row - i + 1, col - j + 1];
+                            s1b += color.B * F1[row - i + 1, col - j + 1];
+
+                            s1r += color.R * F2[row - i + 1, col - j + 1];
+                            s1g += color.G * F2[row - i + 1, col - j + 1];
+                            s1b += color.B * F2[row - i + 1, col - j + 1];
+
+                            s1r += color.R * F3[row - i + 1, col - j + 1];
+                            s1g += color.G * F3[row - i + 1, col - j + 1];
+                            s1b += color.B * F3[row - i + 1, col - j + 1];
+
+                            s1r += color.R * F4[row - i + 1, col - j + 1];
+                            s1g += color.G * F4[row - i + 1, col - j + 1];
+                            s1b += color.B * F4[row - i + 1, col - j + 1];
+
+                            s2r += color.R * F5[row - i + 1, col - j + 1];
+                            s2g += color.G * F5[row - i + 1, col - j + 1];
+                            s2b += color.B * F5[row - i + 1, col - j + 1];
+
+                            s2r += color.R * F6[row - i + 1, col - j + 1];
+                            s2g += color.G * F6[row - i + 1, col - j + 1];
+                            s2b += color.B * F6[row - i + 1, col - j + 1];
+
+                            s2r += color.R * F7[row - i + 1, col - j + 1];
+                            s2g += color.G * F7[row - i + 1, col - j + 1];
+                            s2b += color.B * F7[row - i + 1, col - j + 1];
+
+                            s2r += color.R * F8[row - i + 1, col - j + 1];
+                            s2g += color.G * F8[row - i + 1, col - j + 1];
+                            s2b += color.B * F8[row - i + 1, col - j + 1];
+
+                            s2r += color.R * F9[row - i + 1, col - j + 1];
+                            s2g += color.G * F9[row - i + 1, col - j + 1];
+                            s2b += color.B * F9[row - i + 1, col - j + 1];
+                        }
+
+
+                    double numitorR = (s2r + s1r) * (s2r + s1r);
+                    double numitorG = (s2g + s1g) * (s2g + s1g);
+                    double numitorB = (s2b + s1b) * (s2b + s1b);
+
+                    s1r = numitorR != 0 ? Math.Sqrt((s1r * s1r) / numitorR) * 255 : 0;
+                    s1g = numitorG != 0 ? Math.Sqrt((s1g * s1g) / numitorG) * 255 : 0;
+                    s1b = numitorB != 0 ? Math.Sqrt((s1b * s1b) / numitorB) * 255 : 0;
+
+                    if (s1r < 0) s1r = 0;
+                    if (s1g < 0) s1g = 0;
+                    if (s1b < 0) s1b = 0;
+
+                    if (s1r > 255) s1r = 255;
+                    if (s1g > 255) s1g = 255;
+                    if (s1b > 255) s1b = 255;
+
+                    color = Color.FromArgb((int)s1r, (int)s1g, (int)s1b);
+
+                    workImage.SetPixel(i, j, color);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+        private void BtnGabor_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+
+            int[,] P = new int[,]
+            {
+                { 1, 1, 1 },
+                { 0, 0, 0 },
+                { -1, -1, -1 }
+            };
+
+            int[,] Q = new int[,]
+            {
+                { -1, 0, 1 },
+                { -1, 0, 1 },
+                { -1, 0, 1 }
+            };
+
+            double PI = 3.14;
+            double sigma = 0.66;
+            double omega = 1.5;
+
+            for (int i = 1; i < workImage.Width - 1; i++)
+            {
+                for (int j = 1; j < workImage.Height - 1; j++)
+                {
+                    double sumaP = 0;
+                    double sumaQ = 0;
+
+                    for (int r = 0; r < 3; r++)
+                    {
+                        for (int c = 0; c < 3; c++)
+                        {
+                            Color pix = saveImage.GetPixel(i + c - 1, j + r - 1);
+
+                            double intensitate = (pix.R + pix.G + pix.B) / 3.0;
+
+                            sumaP += intensitate * P[r, c];
+                            sumaQ += intensitate * Q[r, c];
+                        }
+                    }
+
+                    double u = 0;
+
+                    if (Math.Abs(sumaQ) == 0)
+                    {
+                        if (sumaP >= 0)
+                            u = PI / 2;
+                        else
+                            u = -PI / 2;
+                    }
+                    else
+                    {
+                        u = Math.Atan(sumaP / sumaQ);
+                        if (sumaQ < 0)
+                        {
+                            u = u + PI;
+                        }
+                    }
+
+                    u = u + PI / 2;
+
+                    double finalSuma = 0;
+
+                    for (int r = 0; r < 3; r++)
+                    {
+                        for (int c = 0; c < 3; c++)
+                        {
+
+                            double exponent = -((r * r) + (c * c)) / (2 * sigma * sigma);
+                            double termSin = omega * (r * Math.Cos(u) + c * Math.Sin(u));
+
+                            double scale = Math.Exp(exponent) * Math.Sin(termSin);
+
+                            Color pix = saveImage.GetPixel(i + c - 1, j + r - 1);
+                            double intensitate = (pix.R + pix.G + pix.B) / 3.0;
+
+                            finalSuma += scale * intensitate;
+                        }
+                    }
+
+                    int val = (int)finalSuma;
+                    if (val < 0) val = 0;
+                    if (val > 255) val = 255;
+
+                    Color newColor = Color.FromArgb(val, val, val);
+                    workImage.SetPixel(i, j, newColor);
+                }
+            }
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+
+
+        private void BtnSM_Click(object sender, EventArgs e)
+        {
+            if (workImage == null)
+            {
+                MessageBox.Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            workImage.Lock();
+            saveImage.Lock();
+
+            List<ImageRegion> regions = new List<ImageRegion>();
+            double threshold = Double.Parse(TxtSM.Text);
+
+            int regionCounter = 0;
+            SplitRegion(new Rectangle(0, 0, workImage.Width, workImage.Height), threshold, regions, ref regionCounter);
+
+            double mergeThreshold = threshold;
+            MergeRegions(regions, mergeThreshold);
+
+            ColorRegions(regions);
+
+            panelDestination.BackgroundImage = null;
+            panelDestination.BackgroundImage = workImage.GetBitMap();
+
+            workImage.Unlock();
+            saveImage.Unlock();
+        }
+        void MergeRegions(List<ImageRegion> regions, double threshold)
+        {
+
+            for (int i = 0; i < regions.Count - 1; i++)
+            {
+                for (int j = i + 1; j < regions.Count; j++)
+                {
+                    ImageRegion r1 = regions[i];
+                    ImageRegion r2 = regions[j];
+
+                    if (r1.GroupID == r2.GroupID) continue;
+
+                    if (AreAdjacent(r1.Rect, r2.Rect))
+                    {
+                        double diffRange1 = r1.MaxIntensity - r1.MinIntensity;
+                        double diffRange2 = r2.MaxIntensity - r2.MinIntensity;
+                        bool similarMean = Math.Abs(r1.Mean - r2.Mean) <= 10;
+                        if (similarMean)
+                        {
+                            int oldID = r2.GroupID;
+                            int newID = r1.GroupID;
+                            for (int k = 0; k < regions.Count; k++)
+                            {
+                                if (regions[k].GroupID == oldID)
+                                {
+                                    regions[k].GroupID = newID;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+
+        void ColorRegions(List<ImageRegion> regions)
+        {
+            var groups = regions.GroupBy(r => r.GroupID);
+
+            foreach (var group in groups)
+            {
+                double totalSum = 0;
+                double totalArea = 0;
+
+                foreach (var r in group)
+                {
+                    double area = r.Rect.Width * r.Rect.Height;
+                    totalSum += r.Mean * area;
+                    totalArea += area;
+                }
+
+                int finalGray = (int)(totalSum / totalArea);
+                if (finalGray < 0) finalGray = 0;
+                if (finalGray > 255) finalGray = 255;
+                Color finalColor = Color.FromArgb(finalGray, finalGray, finalGray);
+
+                foreach (var r in group)
+                {
+                    for (int x = r.Rect.Left; x < r.Rect.Right; x++)
+                    {
+                        for (int y = r.Rect.Top; y < r.Rect.Bottom; y++)
+                        {
+                            workImage.SetPixel(x, y, finalColor);
+                        }
+                    }
+                }
+            }
+        }
+
+        bool AreAdjacent(Rectangle r1, Rectangle r2)
+        {
+            return (r1.Left == r2.Right || r1.Right == r2.Left || r1.Top == r2.Bottom || r1.Bottom == r2.Top)
+                   && r1.IntersectsWith(new Rectangle(r2.X - 1, r2.Y - 1, r2.Width + 2, r2.Height + 2));
+        }
+
+        void SplitRegion(Rectangle rect, double threshold, List<ImageRegion> regions, ref int idCounter)
+        {
+            double sum = 0, sum2 = 0;
+            int min = 255, max = 0;
+
+            for (int x = rect.Left; x < rect.Right; x++)
+            {
+                for (int y = rect.Top; y < rect.Bottom; y++)
+                {
+                    Color c = saveImage.GetPixel(x, y);
+                    int gray = (c.R + c.G + c.B) / 3;
+                    sum += gray;
+
+                    if (gray < min) min = gray;
+                    if (gray > max) max = gray;
+                }
+            }
+            double mean = sum / (rect.Width * rect.Height);
+
+            for (int x = rect.Left; x < rect.Right; x++)
+            {
+                for (int y = rect.Top; y < rect.Bottom; y++)
+                {
+                    Color c = saveImage.GetPixel(x, y);
+                    int gray = (c.R + c.G + c.B) / 3;
+                    sum2 += (gray - mean) * (gray - mean);
+                }
+            }
+            double deviation = Math.Sqrt(sum2 / ((rect.Width * rect.Height)));
+            if ((sum2 / ((rect.Width * rect.Height) - 1)) >= threshold && rect.Width > 2 && rect.Height > 2)
+            {
+                int midX = rect.Left + rect.Width / 2;
+                int midY = rect.Top + rect.Height / 2;
+
+                SplitRegion(new Rectangle(rect.Left, rect.Top, midX - rect.Left, midY - rect.Top), threshold, regions, ref idCounter);
+                SplitRegion(new Rectangle(midX, rect.Top, rect.Right - midX, midY - rect.Top), threshold, regions, ref idCounter);
+                SplitRegion(new Rectangle(rect.Left, midY, midX - rect.Left, rect.Bottom - midY), threshold, regions, ref idCounter);
+                SplitRegion(new Rectangle(midX, midY, rect.Right - midX, rect.Bottom - midY), threshold, regions, ref idCounter);
+            }
+            else
+            {
+                regions.Add(new ImageRegion(rect, mean, deviation, min, max, idCounter++));
+            }
+        }
+    }
+    public class ImageRegion
+    {
+        public Rectangle Rect { get; set; }
+        public double Mean { get; set; }
+        public double StdDev { get; set; }
+        public int MinIntensity { get; set; }
+        public int MaxIntensity { get; set; }
+        public int GroupID { get; set; }
+
+        public ImageRegion(Rectangle rect, double mean, double stdDev, int min, int max, int id)
+        {
+            Rect = rect;
+            Mean = mean;
+            StdDev = stdDev;
+            MinIntensity = min;
+            MaxIntensity = max;
+            GroupID = id;
         }
     }
 }

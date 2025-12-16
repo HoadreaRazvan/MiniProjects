@@ -52,6 +52,10 @@ namespace ComputerVision
             this.BtnLaplace = new System.Windows.Forms.Button();
             this.BtnRoberts = new System.Windows.Forms.Button();
             this.BtnPrewitt = new System.Windows.Forms.Button();
+            this.BtnFreiChen = new System.Windows.Forms.Button();
+            this.BtnGabor = new System.Windows.Forms.Button();
+            this.BtnSM = new System.Windows.Forms.Button();
+            this.TxtSM = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TrackBar_Rotatie)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar_Constrast)).BeginInit();
@@ -312,11 +316,55 @@ namespace ComputerVision
             this.BtnPrewitt.UseVisualStyleBackColor = true;
             this.BtnPrewitt.Click += new System.EventHandler(this.BtnPrewitt_Click);
             // 
+            // BtnFreiChen
+            // 
+            this.BtnFreiChen.Location = new System.Drawing.Point(402, 500);
+            this.BtnFreiChen.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.BtnFreiChen.Name = "BtnFreiChen";
+            this.BtnFreiChen.Size = new System.Drawing.Size(112, 35);
+            this.BtnFreiChen.TabIndex = 35;
+            this.BtnFreiChen.Text = "Frei-Chen";
+            this.BtnFreiChen.UseVisualStyleBackColor = true;
+            this.BtnFreiChen.Click += new System.EventHandler(this.BtnFreiChen_Click);
+            // 
+            // BtnGabor
+            // 
+            this.BtnGabor.Location = new System.Drawing.Point(402, 455);
+            this.BtnGabor.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.BtnGabor.Name = "BtnGabor";
+            this.BtnGabor.Size = new System.Drawing.Size(112, 35);
+            this.BtnGabor.TabIndex = 36;
+            this.BtnGabor.Text = "Gabor";
+            this.BtnGabor.UseVisualStyleBackColor = true;
+            this.BtnGabor.Click += new System.EventHandler(this.BtnGabor_Click);
+            // 
+            // BtnSM
+            // 
+            this.BtnSM.Location = new System.Drawing.Point(29, 455);
+            this.BtnSM.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.BtnSM.Name = "BtnSM";
+            this.BtnSM.Size = new System.Drawing.Size(174, 35);
+            this.BtnSM.TabIndex = 37;
+            this.BtnSM.Text = "Splitting and Merging";
+            this.BtnSM.UseVisualStyleBackColor = true;
+            this.BtnSM.Click += new System.EventHandler(this.BtnSM_Click);
+            // 
+            // TxtSM
+            // 
+            this.TxtSM.Location = new System.Drawing.Point(228, 459);
+            this.TxtSM.Name = "TxtSM";
+            this.TxtSM.Size = new System.Drawing.Size(100, 26);
+            this.TxtSM.TabIndex = 38;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1020, 728);
+            this.Controls.Add(this.TxtSM);
+            this.Controls.Add(this.BtnSM);
+            this.Controls.Add(this.BtnGabor);
+            this.Controls.Add(this.BtnFreiChen);
             this.Controls.Add(this.BtnPrewitt);
             this.Controls.Add(this.BtnRoberts);
             this.Controls.Add(this.BtnLaplace);
@@ -335,6 +383,7 @@ namespace ComputerVision
             ((System.ComponentModel.ISupportInitialize)(this.trackBar_Constrast)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar_Luminozitate)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -364,6 +413,10 @@ namespace ComputerVision
         private System.Windows.Forms.Button BtnLaplace;
         private System.Windows.Forms.Button BtnRoberts;
         private System.Windows.Forms.Button BtnPrewitt;
+        private System.Windows.Forms.Button BtnFreiChen;
+        private System.Windows.Forms.Button BtnGabor;
+        private System.Windows.Forms.Button BtnSM;
+        private System.Windows.Forms.TextBox TxtSM;
     }
 }
 
