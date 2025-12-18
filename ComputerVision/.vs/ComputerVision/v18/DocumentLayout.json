@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\computervision\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|d:\\1_programming\\c#\\2_projects\\miniprojects\\computervision\\computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|solutionrelative:computervision\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DBB9281-3BA1-4F7F-B437-2B378A6B4E10}|ComputerVision\\ComputerVision.csproj|D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\computervision\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeDocumentMoniker": "ComputerVision\\MainForm.cs",
               "ToolTip": "D:\\1_PROGRAMMING\\C#\\2_PROJECTS\\MiniProjects\\ComputerVision\\ComputerVision\\MainForm.cs",
               "RelativeToolTip": "ComputerVision\\MainForm.cs",
-              "ViewState": "AgIAALIFAAAAAAAAAADwv78FAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAKgFAAAAAAAAAAAUwL8FAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:21:11.051Z",
               "EditorCaption": ""

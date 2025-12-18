@@ -1,0 +1,114 @@
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.exe
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.deps.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.runtimeconfig.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\App.g.cs
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.lref
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.baml
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.g.resources
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfoInputs.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfo.cs
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.CoreCompileInputs.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.sourcelink.json
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\refint\PPM_Predictor.dll
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.pdb
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.genruntimeconfig.cache
+D:\1_PROGRAMMING\C#\2_PROJECTS\MiniProjects\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\ref\PPM_Predictor.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.exe
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.deps.json
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.runtimeconfig.json
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.pdb
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.pdb
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.AssemblyReference.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\App.g.cs
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.lref
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.baml
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.g.resources
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfoInputs.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfo.cs
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.CoreCompileInputs.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Pred.FB3BC69B.Up2Date
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\refint\PPM_Predictor.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.pdb
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.genruntimeconfig.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\ref\PPM_Predictor.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.exe
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.deps.json
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.runtimeconfig.json
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.AssemblyReference.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.g.resources
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfoInputs.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfo.cs
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Pred.FB3BC69B.Up2Date
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\refint\PPM_Predictor.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.genruntimeconfig.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\ref\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.exe
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.deps.json
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.runtimeconfig.json
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.AssemblyReference.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.g.resources
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Pred.FB3BC69B.Up2Date
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\refint\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.genruntimeconfig.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\ref\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.exe
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.deps.json
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.runtimeconfig.json
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.AssemblyReference.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor_MarkupCompile.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.g.resources
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Pred.FB3BC69B.Up2Date
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\refint\PPM_Predictor.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.pdb
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\PPM_Predictor.genruntimeconfig.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\PPM_Predictor\obj\Debug\net9.0-windows\ref\PPM_Predictor.dll

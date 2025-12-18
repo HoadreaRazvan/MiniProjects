@@ -1,0 +1,44 @@
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.deps.json
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.pdb
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfoInputs.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfo.cs
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.csproj.CoreCompileInputs.cache
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\refint\Markov.dll
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.pdb
+D:\3_FACULTATE\1_CURSURI\Simularea și optimizarea arhitecturilor de calcul\PPM_Predictor\Markov\obj\Debug\net9.0-windows\ref\Markov.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.deps.json
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfoInputs.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfo.cs
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\refint\Markov.dll
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\Downloads\PPM_Predictor\Markov\obj\Debug\net9.0-windows\ref\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.deps.json
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\refint\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\PPM_Predictor\Markov\obj\Debug\net9.0-windows\ref\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.deps.json
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\bin\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfoInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.AssemblyInfo.cs
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.csproj.CoreCompileInputs.cache
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\refint\Markov.dll
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\Markov.pdb
+C:\Users\hoadr\OneDrive\Desktop\dw\PPM_Predictor\Markov\obj\Debug\net9.0-windows\ref\Markov.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM_Predictor", "PPM_Predictor\PPM_Predictor.csproj", "{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markov", "Markov\Markov.csproj", "{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C8A79D-C909-4B4B-B0D5-FD80EAA3A4EB}
+	EndGlobalSection
+EndGlobal

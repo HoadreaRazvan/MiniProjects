@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\markov\\branchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|solutionrelative:markov\\branchinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\ppm_predictor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|solutionrelative:ppm_predictor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\ppm_predictor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|solutionrelative:ppm_predictor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\markov\\markovppm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|solutionrelative:markov\\markovppm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\markov\\markov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{782CE972-7CE4-47CD-804A-7E23EBD9A5A3}|Markov\\Markov.csproj|solutionrelative:markov\\markov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|c:\\users\\hoadr\\onedrive\\desktop\\dw\\ppm_predictor\\ppm_predictor\\ppm_predictor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E9AAD79-BEA2-4A18-B613-5464E00CAA8B}|PPM_Predictor\\PPM_Predictor.csproj|solutionrelative:ppm_predictor\\ppm_predictor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Markov.csproj",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\Markov.csproj",
+              "RelativeDocumentMoniker": "Markov\\Markov.csproj",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\Markov.csproj",
+              "RelativeToolTip": "Markov\\Markov.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T23:09:47.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PPM_Predictor.csproj",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\PPM_Predictor.csproj",
+              "RelativeDocumentMoniker": "PPM_Predictor\\PPM_Predictor.csproj",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\PPM_Predictor.csproj",
+              "RelativeToolTip": "PPM_Predictor\\PPM_Predictor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T23:09:47.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\BranchInfo.cs",
+              "RelativeDocumentMoniker": "Markov\\BranchInfo.cs",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\BranchInfo.cs",
+              "RelativeToolTip": "Markov\\BranchInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T23:09:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PPM_Predictor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\MainWindow.xaml",
+              "RelativeToolTip": "PPM_Predictor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T23:09:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PPM_Predictor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\PPM_Predictor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PPM_Predictor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T23:09:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarkovPPM.cs",
+              "DocumentMoniker": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\MarkovPPM.cs",
+              "RelativeDocumentMoniker": "Markov\\MarkovPPM.cs",
+              "ToolTip": "C:\\Users\\hoadr\\OneDrive\\Desktop\\dw\\PPM_Predictor\\Markov\\MarkovPPM.cs",
+              "RelativeToolTip": "Markov\\MarkovPPM.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAwCABAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T23:09:47.401Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
